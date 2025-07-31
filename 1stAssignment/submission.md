@@ -16,13 +16,13 @@ python3 -m http.server 8080
 
 ## Screenshots
 ### Terminal
-<img width="728" height="106" alt="image" src="https://github.com/user-attachments/assets/9ccc2015-78bb-4420-8b5f-70f968426b33" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9ccc2015-78bb-4420-8b5f-70f968426b33" />
 
 ### Served Directory at port 8080 using localhost as ip 
-<img width="1011" height="490" alt="image" src="https://github.com/user-attachments/assets/9308e70f-dc02-4636-ab4a-e7e4974c75fe" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/9308e70f-dc02-4636-ab4a-e7e4974c75fe" />
 
 ### Accessing served directory using local IPv4 adress
-![Image 2025-07-31 at 23 45 54_3faac56f](https://github.com/user-attachments/assets/c6f984de-2fd3-459c-998f-bf41655e970a)
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/c6f984de-2fd3-459c-998f-bf41655e970a" />
 
 ## Findings
 - This is a simple simulation of broadcasting a directory over the network for various use cases
