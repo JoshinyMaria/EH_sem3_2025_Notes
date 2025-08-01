@@ -1,0 +1,93 @@
+Day 2
+1.What is GitHub:
+
+GitHub is an online platform used for version control and collaboration.
+
+It allows developers to host and review code, track changes, and work together on projects.
+
+It is based on Git, a distributed version control system.
+
+2.How to Use GitHub:
+
+Create repositories to store code or documents.
+
+Clone repositories to your system using Git.
+
+Commit changes to track updates.
+
+Push changes to GitHub so others can access them.
+
+Pull changes to keep your local copy updated.
+
+3.How to Create an Account:
+
+Visit https://github.com.
+
+Click on Sign Up.
+
+Enter your email, username, and password.
+
+Choose preferences and verify your email to activate the account.
+
+4.How to Add Files to GitHub:
+
+After logging in, click on New Repository.
+
+Give the repository a name and description.
+
+After creating the repo, click on Add File > Upload Files.
+
+
+
+
+Day 2
+installation of kali linux , virtual box 
+Software Required:
+
+Oracle VirtualBox
+
+Kali Linux ISO file
+
+7-Zip (to extract compressed files if needed)
+
+Installation Steps:
+Install VirtualBox:
+
+Download from official site: https://virtualbox.org
+
+Run setup and follow the installation wizard.
+
+Install 7-Zip:
+
+Used to extract compressed files if Kali is downloaded as a .zip or .7z.
+
+Download Kali Linux ISO:
+
+Visit https://www.kali.org
+
+Choose appropriate version (e.g., Installer ISO).
+
+Set Up Kali on VirtualBox:
+
+Open VirtualBox → Click New
+
+Enter name (e.g., Kali), select Linux and version Debian (64-bit)
+
+Assign RAM (at least 2 GB)
+
+Create virtual hard disk (10–20 GB recommended)
+
+Go to Settings > Storage → Add Kali ISO under Controller: IDE
+
+Start the VM and install Kali.
+
+Problems Faced:
+No major issues during installation.
+
+My personal issue: Thought VirtualBox was installed, but it wasn’t.
+
+Tried to open Kali directly → It didn’t open.
+
+Rechecked and installed VirtualBox correctly.
+
+Had to install 7-Zip to extract the Kali image properly.
